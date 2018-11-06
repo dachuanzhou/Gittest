@@ -1,4 +1,4 @@
-second time just test the function of git 
-123456
+first time just test the function of git 
+from host to linux
 :wq
 
