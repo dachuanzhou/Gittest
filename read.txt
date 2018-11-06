@@ -1,2 +1,2 @@
 just test function of git
-second time transmit
+second time transmit zdc
